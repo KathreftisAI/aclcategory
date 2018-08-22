@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>ACL Category</name>
+   <key>ACL Category</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/Unotechsoftware/aclcategory/master/acl-logo.png</logo>
+   <description>
+      <short>
+         <en>Feature to restrict tickets in specific categories to only those users assigned to the groups.</en>
+      </short>
+      <long>
+         <en>Feature to restrict tickets in specific categories to only those users assigned to the groups.</en>
+      </long>
+   </description>
+   <homepage>https://github.com/Unotechsoftware/aclcategory</homepage>
+   <download>https://github.com/Unotechsoftware/aclcategory</download>
+   <readme>https://github.com/Unotechsoftware/aclcategory/blob/master/README.md</readme>
+   <authors>
+      <author>Unotech Software</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>9.2.4</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>en_GB</lang>
+   </langs>
+   <license>GPL v2+</license>
+   <tags>
+      <en>
+         <tag>Ticket</tag>
+      </en>
+      <lang>
+         <tag>Ticket</tag>
+      </lang>
+   </tags>
+   <screenshots>
+      <screenshot>https://raw.githubusercontent.com/Unotechsoftware/aclcategory/master/screenshot/aclcategory-screenshot.png</screenshot>
+   </screenshots>
+</root>
