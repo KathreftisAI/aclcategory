@@ -1,4 +1,4 @@
-# plugin_groupCategory
+# plugin_aclcategory
 Feature to restrict tickets in specific categories to only those users assigned to the groups.
 
 **Requirement**
