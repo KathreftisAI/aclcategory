@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <name>ACL Category</name>
-   <key>ACL Category</key>
+   <name>ACL Group Category</name>
+   <key>ACL Group Category</key>
    <state>stable</state>
    <logo>https://raw.githubusercontent.com/Unotechsoftware/aclcategory/master/acl-logo.png</logo>
    <description>
